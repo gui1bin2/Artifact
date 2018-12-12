@@ -1,2 +1,2 @@
 # DOTA卡牌Artifact
-官方API获取，以及Artibuff爬虫
+DOTA卡牌A官方API获取，以及Artibuff爬虫
